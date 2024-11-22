@@ -1,0 +1,1 @@
+My boiler plate for sequelize mvc 
